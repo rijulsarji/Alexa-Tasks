@@ -1,0 +1,1 @@
+This is a repository for all my projects and tasks I do at Alexa Developers SRM.
